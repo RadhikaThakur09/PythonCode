@@ -1,0 +1,11 @@
+Commands:
+$git status
+
+for single file
+$ git add filename
+
+for more files
+$ git add filename1 filename2 filenamen
+
+all files
+$ git add . 
